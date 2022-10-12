@@ -1,8 +1,7 @@
-# wine-quality-classification
+# Wine quality classification
 Wine quality classification using logistic regression :wine_glass:
 
-This dataset contains a set of information of several wine samples that are labeled as good quality and bad quality.
-The goal is to classify between good and bad wine based on its information.
+This dataset contains a set of information on several wine samples that are labeled as good quality and bad quality. The goal is to classify good and bad wine based on its information.
 
 Attribute information:  
 - *Input* variables (based on physicochemical tests):  
